@@ -32,15 +32,15 @@
   
   
 # Run the project
-  1. **Run in Google Colab**  
-    - open the notebook in google colab
-    - change PATH according to desired location for exporting cleaned datasets in **_data_understanding_preparation.ipynb_** notebook
-    - change PATH according to desired location for loading cleaned datasets in **_exploratory_data_analysis.ipynb_** notebook
+  1. **Run in Google Colab**    
+    - open the notebook in google colab  
+    - change PATH according to desired location for exporting cleaned datasets in **_data_understanding_preparation.ipynb_** notebook  
+    - change PATH according to desired location for loading cleaned datasets in **_exploratory_data_analysis.ipynb_** notebook   
    
-  2. **Run in local system**
-    - git clone https://github.com/thapaliya123/Coursera_Capstone.git
-    - open desired notebook
-    - change PATH according to desired location for exporting cleaned datasets in **_data_understanding_preparation.ipynb_** notebook
-    - change PATH according to desired location for loading cleaned datasets in **_exploratory_data_analysis.ipynb_** notebook
+  2. **Run in local system**   
+    - git clone https://github.com/thapaliya123/Coursera_Capstone.git  
+    - open desired notebook  
+    - change PATH according to desired location for exporting cleaned datasets in **_data_understanding_preparation.ipynb_** notebook  
+    - change PATH according to desired location for loading cleaned datasets in **_exploratory_data_analysis.ipynb_** notebook   
  
   
